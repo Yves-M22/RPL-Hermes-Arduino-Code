@@ -1,5 +1,5 @@
 # RPL-Hermes-Arduino-Code
-## Arduino Code for the Hermes Flight Computer
+## General Information/Updates
 Code still needs to be finished and tested before moving hardware out of the breadboard. Consists of multiple sensors connected to an Arduino Mega. 
 
 BMP 280: Measures temperature, pressure, and altitude - Mostly Finished with code, output format could be changed. 
@@ -11,3 +11,5 @@ Adafruit Breakout GPS: Tracks location coordinates - Works with example code, bu
 MicroSD Card Reader: Saves data recorded onto a microSD card - Needs Debugging.
 
 Xbee Transistors: Allows data recorded to be transmitted via radio transmission - Need to determine how it will work and how the sender and recipient Arduino (Ground Station) will communicate with each other.
+
+## Breadboard Testing
