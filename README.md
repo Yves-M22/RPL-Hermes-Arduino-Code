@@ -21,3 +21,7 @@ Xbee Transistors: Allows data recorded to be transmitted via radio transmission 
 Notes: The output format could be made more compact if necessary to reduce the amount of data being transmitted and written onto SD. Data being transmitted and written will be around 300 bytes currently every 3 seconds.  
 
 ## Breadboard Testing
+
+![Components on a breadboard](/images/testing.jpg "Arduino Mega")
+
+![Fritzing Diagram](/images/fritzing.png "Wiring Diagram")
