@@ -25,3 +25,5 @@ Notes: The output format could be made more compact if necessary to reduce the a
 ![Components on a breadboard](/images/testing.jpg "Arduino Mega")
 
 ![Fritzing Diagram](/images/fritzing.png "Wiring Diagram")
+
+![Fritzing Diagram2](/images/esp32diagram.png "Wiring Diagram2")
