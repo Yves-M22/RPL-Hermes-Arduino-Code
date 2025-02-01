@@ -8,6 +8,8 @@ Code still needs to be finished and tested before moving hardware out of the bre
 
 *3/24/24 - GitHub made for code*.
 
+*1/31/24 - Switch to ESP32 & Change from generic SD card reaer to Adafruit*
+
 BMP 280: Measures temperature, pressure, and altitude - Finished. 
 
 MPU 6050: Measures acceleration and rotation - Finished.
